@@ -1,0 +1,2 @@
+# Diamond-Price-Prediction
+In this project, the innovative topic of big data analytics has been shown to provide price prediction of diamonds. This study evaluates the performance of machine learning techniques using the (53,940) diamond data. An evaluation of machine learning technique using Spark platform on predicting the price of the diamond. Conducting several experiments and using different validation methods, the LinearRegression model performed best, giving a R square (r2) score of more than 0.87.
